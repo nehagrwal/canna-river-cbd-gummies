@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/canna-river-cbd-gummies/sitemap.xml
+Sitemap: https://canna-river-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://canna-river-cbd-gummies.pages.dev/sitemap-cloudflare.xml
